@@ -19,8 +19,8 @@
 
 ابتدا مخزن را Clone کنید:
 
-git clone https://github.com/sakratonhacker/Free-real-aparat-flower
-cd Aparat_bot 
+git clone https://github.com/sakratonhacker/Free-real-aparat-flower.git
+cd Aparat_bot
 
 سپس وابستگی‌ها را نصب کنید:
 
