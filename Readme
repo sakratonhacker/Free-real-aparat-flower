@@ -1,4 +1,4 @@
-سلام من ساکراتون هستم و به کمک دوست عزیزمون ناشر پروژه این پروژه قدیمی رو آپدیت گردم و برای ترموکس کردمش 🤖 Aparat Bot
+سلام من ساکراتون هستم و به کمک دوست عزیزمون ناشر پروژه این پروژه قدیمی رو آپدیت کردم و برای ترموکس کردمش 🤖 Aparat Bot
 
 اسکریپت Python برای جست‌وجو و بررسی کانال‌های آپارات و انجام فالو به‌صورت خودکار، با استفاده از Selenium و BeautifulSoup.
 
@@ -20,7 +20,7 @@
 ابتدا مخزن را Clone کنید:
 
 git clone https://github.com/sakratonhacker/Free-real-aparat-flower.git
-cd Aparat_bot
+cd Free-real-aparat-flower
 
 سپس وابستگی‌ها را نصب کنید:
 
